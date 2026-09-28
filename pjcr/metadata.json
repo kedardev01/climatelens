@@ -1,0 +1,8 @@
+{
+  "name": "ClimateLens Earth Monitor",
+  "description": "Comprehensive climate change data analytics, armed conflict and military ecological footprint, AI data center energy impacts, and planetary environmental monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
